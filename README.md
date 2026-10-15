@@ -13,7 +13,7 @@
 
 ## Как ссылаются на файлы
 
-В запросах стоят прямые ссылки вида `https://raw.githubusercontent.com/viktorshab/minik-7-agentov/main/<путь к файлу>`. По такой ссылке ChatGPT получает чистый текст, а не страницу GitHub с меню и кнопками.
+В запросах стоят прямые ссылки вида `https://raw.githubusercontent.com/viktorshab/minik-ai-agenty/main/<путь к файлу>`. По такой ссылке ChatGPT получает чистый текст, а не страницу GitHub с меню и кнопками.
 
 ## Безопасность
 
