@@ -1,7 +1,0 @@
-CREATE TABLE IF NOT EXISTS apify_key (
-  id TEXT PRIMARY KEY NOT NULL,
-  iv TEXT NOT NULL,
-  ciphertext TEXT NOT NULL,
-  username TEXT NOT NULL,
-  updated_at INTEGER NOT NULL
-);

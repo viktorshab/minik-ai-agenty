@@ -1,9 +1,0 @@
-.env
-.env.*
-!.env.example
-*.key
-*.pem
-secrets.*
-tokens.*
-node_modules/
-.sites-runtime/
